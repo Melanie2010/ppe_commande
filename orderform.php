@@ -31,15 +31,15 @@ $bdd->exec("SET CHARACTER SET utf8");
       </thead>
       <tr>
         <td><label for="tablettes">Tablettes</label></td>
-        <td><input type="number" min="1" max="10" name="tablettes" id="tablettes" placeholder="0" autofocus required></td>
+        <td><input type="number"  name="tablettes" id="tablettes" placeholder="0" ></td>
       </tr>
       <tr>
         <td><label for="pc">Pc</label></td>
-        <td><input type="number" min="1" max="10" name="pc"  id="pc" placeholder="0" required></td>
+        <td><input type="number"  name="pc"  id="pc" placeholder="0" ></td>
       </tr>
       <tr>
         <td><label for="portable">Portable</label></td>
-        <td><input type="number" min="1" max="10" name="portable" id="portable" placeholder="0" required></td>
+        <td><input type="number" name="portable" id="portable" placeholder="0" ></td>
       </tr>
       <tr>
         <td><label for="adresse">Adresse</label></td>
