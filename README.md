@@ -6,6 +6,8 @@ Notre travail concerne le traitement php de la commande.
 ![image](https://user-images.githubusercontent.com/65156750/116003259-8dd83d80-a5fd-11eb-8553-3ca31a6b29e0.png)
 
 
+
+
 La 1ère phase de ce PPE, consiste à effectuer le formulaire de commande suivant : 
 ![Capture](https://user-images.githubusercontent.com/65156750/120107049-b523ac80-c15f-11eb-8496-1be2f84a394b.PNG)
 
